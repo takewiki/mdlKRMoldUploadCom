@@ -11,7 +11,8 @@ tabItem(tabName = "mdlKRMoldUploadCom",
                                     #uiComponent seperated by comma (,)
                                     
                                     mdlKRMoldUploadUI::mdToolUI(),
-                                    mdlKRMoldUploadUI::mdMoldUI()
+                                    mdlKRMoldUploadUI::mdMoldUI(),
+                                    mdlKRMoldUploadUI::workOrderUI()
                                      
                                     
                                     
