@@ -10,9 +10,7 @@ tabItem(tabName = "mdlKRMoldUploadCom",
                                     #begin----
                                     #uiComponent seperated by comma (,)
                                     
-                                    mdlKRMoldUploadUI::mdToolUI(),
-                                    mdlKRMoldUploadUI::mdMoldUI(),
-                                    mdlKRMoldUploadUI::workOrderUI()
+                                    mdlKRMoldUploadUI::mdMoldUI()
                                      
                                     
                                     
